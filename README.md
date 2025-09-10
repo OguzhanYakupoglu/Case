@@ -16,7 +16,8 @@
 
 [Gameplay](https://youtube.com/shorts/xw82rYP6jJk)
 
-- ücretsiz asset kütüphanesinde çok fazla temiz ve optimize assetler olmadığı için olabildiğince asset kullanımından kaçındım (toony shader, feel, casual gui pack vs. gibi assetlerle geliştirilebilir.)
+[Level Editor Kullanımı](https://youtu.be/ZyCvU5MNJs0)
+
+- olabildiğince asset kullanımından kaçındım (toony shader, feel, casual gui pack vs. gibi assetlerle geliştirilebilir.)
 
 - level oluşturma/düzenleme için bir level editor hazırladım.
-[Level Editor Kullanımı](https://youtu.be/ZyCvU5MNJs0)
